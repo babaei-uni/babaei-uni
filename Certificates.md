@@ -69,7 +69,7 @@ Here is a list of all the certificates I have earned so far. I will update this 
 ## specialization 2
 
 - **Title:** Machine Learning Specialization
-- **Issuing Organization:** Coursera
+- **Issuing Organization:** Stanford university- DeepLearning.AI
 - **Date:** May 2023
 - **Expiration Date:** This certification does not expire
 - **Credential ID:** T8CW8VNZNZ9V
