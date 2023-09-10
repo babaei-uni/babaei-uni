@@ -2,6 +2,28 @@
 
 Here is a list of all the certificates I have earned so far. I will update this list as I earn more certificates.
 
+## Certificates
+
+- ## Python for Everybody Specialization
+- *Programming for Everybody (Getting Started with Python)*
+- *Python Data Structures*
+- *Using Databases with Python*
+- *Using Python to Access Web Data*
+- *Capstone: Retrieving, Processing, and Visualizing Data with Python*
+
+- ## Machine Learning Specialization
+- Supervised Machine Learning: Regression and Classification
+- Advanced Learning Algorithms
+- Unsupervised Learning, Recommenders & Reinforcement Learning
+- ## Non-Specialization Courses
+- Linear Algebra for Machine Learning and Data Science
+- Introduction to Git and GitHub
+
+
+<br>
+
+# Certificates in Detail
+
 ## specialization 1
 
 - **Title:** Python for Everybody Specialization
