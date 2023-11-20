@@ -16,6 +16,13 @@ Here is a list of all the certificates I have earned so far. I will update this 
 - Supervised Machine Learning: Regression and Classification
 - Advanced Learning Algorithms
 - Unsupervised Learning, Recommenders & Reinforcement Learning
+
+## Deep Learning Specialization (Stanford university- DeepLearning.AI)
+
+- Neural Networks and Deep Learning
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- Structuring Machine Learning Projects
+
  ## Non-Specialization Courses
 - Linear Algebra for Machine Learning and Data Science
 - Introduction to Git and GitHub
@@ -25,7 +32,7 @@ Here is a list of all the certificates I have earned so far. I will update this 
 
 # Certificates in Detail
 
-## specialization 1
+## Python for Everybody Specialization (Michigan University)
 
 - **Title:** Python for Everybody Specialization
 - **Issuing Organization:** Michigan University
@@ -89,7 +96,7 @@ Here is a list of all the certificates I have earned so far. I will update this 
 
 
 
-## specialization 2
+## Machine Learning Specialization (Stanford university- DeepLearning.AI)
 
 - **Title:** Machine Learning Specialization
 - **Issuing Organization:** Stanford university- DeepLearning.AI
@@ -131,6 +138,47 @@ Here is a list of all the certificates I have earned so far. I will update this 
 - **Expiration Date:** This certification does not expire
 - **Credential ID:** VG9LA3P6JA7H
 - **Credential URL:** [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/VG9LA3P6JA7H)
+
+## Deep Learning Specialization (Stanford university- DeepLearning.AI)
+
+- **Title:** Deep Learning Specialization
+- **Issuing Organization:** Stanford university- DeepLearning.AI
+- **Grade Achieved:** Not fully completed yet
+- **Date:** September 2023
+- **Expiration Date:** This certification does not expire
+- **Credential ID:** Not fully completed yet
+- **Credential URL:** Not fully completed yet
+
+### course 1
+
+- **Title:** Neural Networks and Deep Learning
+- **Issuing Organization:** Stanford university- DeepLearning.AI
+- **Grade Achieved:** 100%
+- **Date:** September 2023
+- **Expiration Date:** This certification does not expire
+- **Credential ID:** JKP4726E8B5X
+- **Credential URL:** [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/JKP4726E8B5X)
+
+### course 2
+
+- **Title:** Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- **Issuing Organization:** Stanford university- DeepLearning.AI
+- **Grade Achieved:** 100%
+- **Date:** September 2023
+- **Expiration Date:** This certification does not expire
+- **Credential ID:** TWKA2UHQ52PF
+- **Credential URL:** [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/TWKA2UHQ52PF)
+
+### course 3
+
+- **Title:** Structuring Machine Learning Projects
+- **Issuing Organization:** Stanford university- DeepLearning.AI
+- **Grade Achieved:** 80%
+- **Date:** October 2023
+- **Expiration Date:** This certification does not expire
+- **Credential ID:** F43L9NWCDCEL
+- **Credential URL:** [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/F43L9NWCDCEL)
+
 
 ## non-specialization courses
 
